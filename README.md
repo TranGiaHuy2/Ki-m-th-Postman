@@ -1,4 +1,4 @@
-![Screenshot (184)](https://github.com/user-attachments/assets/ef04764d-a292-4cf5-a4dc-01ce52c5c4ab)![image](https://github.com/user-attachments/assets/5ce73ee7-2efd-4fad-b558-b8f349e6d786)# Bài Thực Hành Postman
+# Bài Thực Hành Postman
 ## Tổng quan
 - Tên dự án : tester API bằng postman
 - Người thực hiện : Trần Gia Huy
